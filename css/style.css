@@ -133,7 +133,7 @@ header p{
 }
 
 .about-image, .method-image, .clients-image, .contact-image{
-  grid-column: 1 / -1;
+  grid-column: 1 / span all;
   max-height: 700px;
   overflow: hidden;
    /*Your code here */
